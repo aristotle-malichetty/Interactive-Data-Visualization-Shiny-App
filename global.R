@@ -1,0 +1,6 @@
+library(shiny)
+library(plotly)
+library(tidyverse)
+library(readxl)
+library(shinythemes)
+library(vroom)
